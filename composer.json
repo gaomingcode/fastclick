@@ -1,4 +1,20 @@
 {
-  "name":"gaomingcode/fastclick",
-  "type": "library"
+    "name": "gaomingcode/fastclick",
+    "description": "Polyfill to remove click delays on browsers with touch UIs. ",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "fastclick"
+    ],
+    "homepage": "https://labs.ft.com/",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Rowan Beentje",
+            "email": "rowan.beentje@ft.com"
+        }
+    ]
 }
